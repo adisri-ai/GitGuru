@@ -19,7 +19,6 @@ Semantic Repository Search • Agentic RAG • Multi-LLM • LangChain • LLD A
 ![Ollama](https://img.shields.io/badge/Ollama-Supported-lightgrey)
 ![Architecture](https://img.shields.io/badge/Architecture-Layered-blueviolet)
 ![Design Patterns](https://img.shields.io/badge/Design-LLD-important)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 </p>
 
